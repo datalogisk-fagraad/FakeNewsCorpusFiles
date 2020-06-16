@@ -23,5 +23,5 @@ Alternatively, you can simply download the files directly from the website.
 [1]: https://github.com/several27/FakeNewsCorpus
 [2]: https://kurser.ku.dk/course/ndab18000u
 [3]: https://git-lfs.github.com
-[4]: https://github.com/shmulvad/FakeNewsCorpus1Mio/raw/master/1mio-raw.zip
-[5]: https://github.com/shmulvad/FakeNewsCorpus1Mio/raw/master/clean-100k.zip
+[4]: https://github.com/datalogisk-fagraad/FakeNewsCorpusFiles/raw/master/1mio-raw.zip
+[5]: https://github.com/datalogisk-fagraad/FakeNewsCorpusFiles/raw/master/clean-100k.zip
